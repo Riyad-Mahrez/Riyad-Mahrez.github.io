@@ -1,14 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[Docker]]></title>
-    <url>%2F2018%2F10%2F01%2FDocker%2F</url>
-    <content type="text"><![CDATA[Docker是一个开放源代码软件项目，让应用程序布署在软件容器下的工作可以自动化进行，借此在Linux操作系统上，提供一个额外的软件抽象层，以及操作系统层虚拟化的自动管理机制。]]></content>
+    <title><![CDATA[Shell编程]]></title>
+    <url>%2F2018%2F10%2F01%2FShell%E7%BC%96%E7%A8%8B%2F</url>
+    <content type="text"><![CDATA[shell是指一种应用程序，这个应用程序提供了一个界面，用户通过这个界面访问操作系统内核的服务。Ken Thompson的sh是第一种Unix Shell，Windows Explorer是一个典型的图形界面Shell。]]></content>
       <categories>
-        <category>Docker</category>
+        <category>Shell</category>
       </categories>
       <tags>
-        <tag>docker</tag>
+        <tag>Shell</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Ansible]]></title>
+    <url>%2F2018%2F10%2F01%2FAnsible%2F</url>
+    <content type="text"><![CDATA[“Ansible”这个名字指的是一个虚构的瞬间超空间通信系统（如Orson Scott Card的Ender’s Game）所述，最初由Ursula K. Le Guin为她的小说Rocannon’s World构思。]]></content>
+      <categories>
+        <category>Ansible</category>
+      </categories>
+      <tags>
+        <tag>自动化运维</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[LAMP]]></title>
+    <url>%2F2018%2F10%2F01%2FLAMP%2F</url>
+    <content type="text"><![CDATA[LAMP是指一组通常一起使用来运行动态网站或者服务器的自由软件名称首字母缩写： Linux，操作系统Apache，网页服务器MariaDB或MySQL，数据库管理系统（或者数据库服务器）PHP、Perl或Python，脚本语言]]></content>
+      <categories>
+        <category>LAMP</category>
+      </categories>
+      <tags>
+        <tag>Services</tag>
       </tags>
   </entry>
   <entry>
@@ -34,17 +56,6 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[LAMP]]></title>
-    <url>%2F2018%2F10%2F01%2FLAMP%2F</url>
-    <content type="text"><![CDATA[LAMP是指一组通常一起使用来运行动态网站或者服务器的自由软件名称首字母缩写： Linux，操作系统Apache，网页服务器MariaDB或MySQL，数据库管理系统（或者数据库服务器）PHP、Perl或Python，脚本语言]]></content>
-      <categories>
-        <category>LAMP</category>
-      </categories>
-      <tags>
-        <tag>Services</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[MySQL]]></title>
     <url>%2F2018%2F10%2F01%2FMySQL%2F</url>
     <content type="text"><![CDATA[MySQL 是一种快速易用的 RDBMS，很多企业（不分规模大小）都在使用它来构建自己的数据库。MySQL 由一家瑞典公司 MySQL AB 开发、运营并予以支持。]]></content>
@@ -54,6 +65,17 @@
       <tags>
         <tag>database</tag>
         <tag>MariaDB</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Docker]]></title>
+    <url>%2F2018%2F10%2F01%2FDocker%2F</url>
+    <content type="text"><![CDATA[Docker是一个开放源代码软件项目，让应用程序布署在软件容器下的工作可以自动化进行，借此在Linux操作系统上，提供一个额外的软件抽象层，以及操作系统层虚拟化的自动管理机制。]]></content>
+      <categories>
+        <category>Docker</category>
+      </categories>
+      <tags>
+        <tag>docker</tag>
       </tags>
   </entry>
   <entry>
@@ -76,28 +98,6 @@
       </categories>
       <tags>
         <tag>Zabbix</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Shell编程]]></title>
-    <url>%2F2018%2F10%2F01%2FShell%E7%BC%96%E7%A8%8B%2F</url>
-    <content type="text"><![CDATA[shell是指一种应用程序，这个应用程序提供了一个界面，用户通过这个界面访问操作系统内核的服务。Ken Thompson的sh是第一种Unix Shell，Windows Explorer是一个典型的图形界面Shell。]]></content>
-      <categories>
-        <category>Shell</category>
-      </categories>
-      <tags>
-        <tag>Shell</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Ansible]]></title>
-    <url>%2F2018%2F10%2F01%2FAnsible%2F</url>
-    <content type="text"><![CDATA[“Ansible”这个名字指的是一个虚构的瞬间超空间通信系统（如Orson Scott Card的Ender’s Game）所述，最初由Ursula K. Le Guin为她的小说Rocannon’s World构思。]]></content>
-      <categories>
-        <category>Ansible</category>
-      </categories>
-      <tags>
-        <tag>自动化运维</tag>
       </tags>
   </entry>
   <entry>
